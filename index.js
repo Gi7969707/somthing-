@@ -2,8 +2,8 @@ const mineflayer = require("mineflayer");
 
 function startBot() {
   const bot = mineflayer.createBot({
-    host: "SERVER_IP_HERE",     // <-- Replace with your server IP
-    username: "USERNAME_HERE", // <-- Replace with cracked username
+    host: "alphagenz.minefort.com",     // <-- Replace with your server IP
+    username: "white_nagger", // <-- Replace with cracked username
   });
 
   bot.on("spawn", () => {
