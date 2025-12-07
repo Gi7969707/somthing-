@@ -1,0 +1,12 @@
+{
+  "name": "mc-afk-bot",
+  "version": "1.0.0",
+  "description": "Minecraft AFK bot for Railway/Render",
+  "main": "index.js",
+  "dependencies": {
+    "mineflayer": "*"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
